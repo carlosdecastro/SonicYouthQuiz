@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Sonic Youth Quiz</string>
+    <string name="question_1_image_description">image 1</string>
+    <string name="question_1_text">What albums are from before 90s?</string>
+    <string name="question_1_option_1">Sister</string>
+    <string name="question_1_option_2">Dirty</string>
+    <string name="question_1_option_3">EVOL</string>
+
+    <string name="question_3_image_description">image 3</string>
+    <string name="question_3_text">What guitar does Thurston use?</string>
+    <string name="question_3_option_1">Model of the guitar not brand</string>
+
+    <string name="question_2_image_description">image 2</string>
+    <string name="question_2_text">In what year Goo was released?</string>
+    <string name="question_2_option_1">1990</string>
+    <string name="question_2_option_2">1993</string>
+    <string name="question_2_option_3">1996</string>
+
+    <string name="question_4_image_description">image 4</string>
+    <string name="question_4_text">What is The Year Punk Broke?"</string>
+    <string name="question_4_option_1">Album</string>
+    <string name="question_4_option_2">Single</string>
+    <string name="question_4_option_3">Documentary</string>
+
+    <string name="question_5_image_description">image 4</string>
+    <string name="question_5_text">What pedals does Lee use?"</string>
+    <string name="question_5_option_1">ProCo Rat</string>
+    <string name="question_5_option_2">Fender Delay</string>
+    <string name="question_5_option_3">Big Muff</string>
+
+    <string name="question_6_image_description">image 3</string>
+    <string name="question_6_text">What is the LP from the photo?</string>
+    <string name="question_6_option_1">Name of the album</string>
+
+    <string name="logo_description">Sonic Youth</string>
+    <string name="score_button">Score</string>
+
+    <string name="question3_real_answer">JAZZMASTER</string>
+    <string name="question6_real_answer">RATHER RIPPED"</string>
+</resources>
